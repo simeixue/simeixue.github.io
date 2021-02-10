@@ -4102,7 +4102,12 @@ li.feature-2 {
 .header-info p {
     margin:0;
     font-family:'Ubuntu',sans-serif;
-    font-weight:700
+    font-weight:900
+}
+.meixuetips p{
+    margin:0;
+    font-family:'Ubuntu',sans-serif;
+    font-weight:70
 }
 .top-social {
     height:32px;
