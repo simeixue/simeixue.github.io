@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hojun</title>
+  <title>mayxue</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://simeixue.gitee.io/cly/"/>
-  <updated>2021-02-10T23:58:40.809Z</updated>
+  <updated>2021-02-11T10:14:07.317Z</updated>
   <id>http://simeixue.gitee.io/cly/</id>
   
   <author>
-    <name>hojun</name>
+    <name>mayxue</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://simeixue.gitee.io/cly/2021/02/11/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
     <id>http://simeixue.gitee.io/cly/2021/02/11/开发日志/</id>
     <published>2021-02-10T17:10:26.000Z</published>
-    <updated>2021-02-10T23:58:40.809Z</updated>
+    <updated>2021-02-11T10:14:07.317Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,13 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://gitee.com/simeixue/photos/raw/master/20210211011926.png&quot;
+          &lt;p&gt;网上搜了好多设计比较好的UI&lt;/p&gt;
+&lt;p&gt;最终选定了这个嘿嘿（花里胡哨的）&lt;/p&gt;
+&lt;p&gt;开始改首页轮播图&lt;/p&gt;
+&lt;p&gt;添加樱花飘落（净整些花里胡哨的）&lt;/p&gt;
+&lt;p&gt;添加自己的logo&lt;/p&gt;
+&lt;p&gt;加上一点点的文案~~&lt;/p&gt;
+&lt;p&gt;&lt;img
         
       
     
