@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://simeixue.gitee.io/cly/"/>
-  <updated>2021-02-11T10:14:07.317Z</updated>
+  <updated>2021-02-12T10:02:18.159Z</updated>
   <id>http://simeixue.gitee.io/cly/</id>
   
   <author>
@@ -17,11 +17,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>开发日志</title>
-    <link href="http://simeixue.gitee.io/cly/2021/02/11/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
-    <id>http://simeixue.gitee.io/cly/2021/02/11/开发日志/</id>
+    <title>我不是情话</title>
+    <link href="http://simeixue.gitee.io/cly/2021/02/12/%E6%88%91%E4%B8%8D%E6%98%AF%E6%83%85%E8%AF%9D/"/>
+    <id>http://simeixue.gitee.io/cly/2021/02/12/我不是情话/</id>
+    <published>2021-02-12T09:21:48.000Z</published>
+    <updated>2021-02-12T10:02:18.159Z</updated>
+    
+    <summary type="html">
+    
+      做事三分钟热度，却唯独对你不行
+    
+    </summary>
+    
+      <category term="吐槽" scheme="http://simeixue.gitee.io/cly/categories/%E5%90%90%E6%A7%BD/"/>
+    
+    
+      <category term="碎碎念" scheme="http://simeixue.gitee.io/cly/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发日志2-导航栏+footer</title>
+    <link href="http://simeixue.gitee.io/cly/2021/02/11/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%972/"/>
+    <id>http://simeixue.gitee.io/cly/2021/02/11/开发日志2/</id>
+    <published>2021-02-11T10:38:26.000Z</published>
+    <updated>2021-02-12T01:01:23.670Z</updated>
+    
+    <summary type="html">
+    
+      完成导航栏+footer
+    
+    </summary>
+    
+      <category term="cly" scheme="http://simeixue.gitee.io/cly/categories/cly/"/>
+    
+    
+      <category term="cly" scheme="http://simeixue.gitee.io/cly/tags/cly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发日志1——确定整体风格</title>
+    <link href="http://simeixue.gitee.io/cly/2021/02/11/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%971/"/>
+    <id>http://simeixue.gitee.io/cly/2021/02/11/开发日志1/</id>
     <published>2021-02-10T17:10:26.000Z</published>
-    <updated>2021-02-11T10:14:07.317Z</updated>
+    <updated>2021-02-12T00:46:03.215Z</updated>
     
     <summary type="html">
     
@@ -31,35 +71,20 @@
         
           &lt;p&gt;网上搜了好多设计比较好的UI&lt;/p&gt;
 &lt;p&gt;最终选定了这个嘿嘿（花里胡哨的）&lt;/p&gt;
-&lt;p&gt;开始改首页轮播图&lt;/p&gt;
-&lt;p&gt;添加樱花飘落（净整些花里胡哨的）&lt;/p&gt;
-&lt;p&gt;添加自己的logo&lt;/p&gt;
-&lt;p&gt;加上一点点的文案~~&lt;/p&gt;
-&lt;p&gt;&lt;img
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;开始改首页轮播图&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加樱花飘落（净整些花里胡哨的）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加自己的logo&lt;/p&gt;
+&lt;/li&gt;
+&lt;l
         
       
     
     </summary>
     
-      <category term="❤" scheme="http://simeixue.gitee.io/cly/categories/%E2%9D%A4/"/>
-    
-    
-      <category term="cly" scheme="http://simeixue.gitee.io/cly/tags/cly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>男票生日策划案——灵感篇</title>
-    <link href="http://simeixue.gitee.io/cly/2021/02/11/%E7%94%B7%E7%A5%A8%E7%94%9F%E6%97%A5%E7%AD%96%E5%88%92%E6%A1%88%E2%80%94%E2%80%94%E7%81%B5%E6%84%9F%E7%AF%87/"/>
-    <id>http://simeixue.gitee.io/cly/2021/02/11/男票生日策划案——灵感篇/</id>
-    <published>2021-02-10T17:04:02.000Z</published>
-    <updated>2021-02-10T23:59:01.448Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="❤" scheme="http://simeixue.gitee.io/cly/categories/%E2%9D%A4/"/>
+      <category term="cly" scheme="http://simeixue.gitee.io/cly/categories/cly/"/>
     
     
       <category term="cly" scheme="http://simeixue.gitee.io/cly/tags/cly/"/>
@@ -89,24 +114,28 @@
   </entry>
   
   <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="http://simeixue.gitee.io/cly/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>http://simeixue.gitee.io/cly/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2021-02-10T22:45:52.022Z</updated>
+    <title>男票生日策划案</title>
+    <link href="http://simeixue.gitee.io/cly/2021/02/02/%E7%94%B7%E7%A5%A8%E7%94%9F%E6%97%A5%E7%AD%96%E5%88%92%E6%A1%88/"/>
+    <id>http://simeixue.gitee.io/cly/2021/02/02/男票生日策划案/</id>
+    <published>2021-02-01T17:04:02.000Z</published>
+    <updated>2021-02-12T00:46:14.159Z</updated>
     
     <summary type="html">
     
-      hexo-sakura主题使用教程
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-背景&quot;&gt;&lt;a href=&quot;#1-背景&quot; class=&quot;headerlink&quot; title=&quot;1. 背景&quot;&gt;&lt;/a&gt;1.
+        
+      
     
     </summary>
     
-      <category term="技术" scheme="http://simeixue.gitee.io/cly/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="cly" scheme="http://simeixue.gitee.io/cly/categories/cly/"/>
     
     
-      <category term="web" scheme="http://simeixue.gitee.io/cly/tags/web/"/>
-    
-      <category term="悦读" scheme="http://simeixue.gitee.io/cly/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="cly" scheme="http://simeixue.gitee.io/cly/tags/cly/"/>
     
   </entry>
   

@@ -882,7 +882,7 @@ address {
     margin:0 0 1.5em
 }
 pre {
-    background:rgba(254,250,199,.5);
+    background:#8b5e83;
     border-radius:10px;
     font:15px/22px "Microsoft YaHei","Arial",Sans-Serif;
     line-height:1.6;
@@ -6604,7 +6604,7 @@ progress {
     color:#000
 }
 .art .art-content #archives a:hover {
-    color:orange
+    color:#8b5e83
 }
 .art .art-content #archives .al_year {
     padding-left:100px
@@ -6639,7 +6639,7 @@ progress {
 .art .art-content .al_mon_list .al_post_list>li:after {
     position:absolute;
     left:118px;
-    background:#6ecaf5;
+    background:#;
     height:8px;
     width:8px;
     border-radius:6px;
@@ -6659,7 +6659,7 @@ progress {
 .art-content #archives .al_mon_list .al_mon:after {
     position:absolute;
     left:116px;
-    background:#6ecaf5;
+    background:#8b5e83;
     height:12px;
     width:12px;
     border-radius:6px;
@@ -6676,7 +6676,7 @@ progress {
     max-height:100%;
     height:100%;
     width:4px;
-    background:#6ecaf5;
+    background:#8b5e83;
     position:absolute;
     left:120px;
     content:"";
@@ -6687,7 +6687,7 @@ progress {
     box-shadow:1px 1px 1px #bbb
 }
 .art-content #archives .al_mon_list .al_mon:after,.art .art-content .al_mon_list .al_post_list>li:after {
-    background:#0bf
+    background:#9a8194
 }
 .toc-container {
     z-index:98;
@@ -7365,7 +7365,7 @@ to {
     overflow-x:auto;
     padding:.5em;
     color:#abb2bf;
-    background:rgba(254,250,199,.5);
+    background:#8b5e83;
     border-radius:10px
 }
 .hljs-comment,.hljs-quote {
