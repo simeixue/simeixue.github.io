@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://simeixue.gitee.io/cly/"/>
-  <updated>2021-02-14T12:31:42.373Z</updated>
+  <updated>2021-02-14T15:33:53.679Z</updated>
   <id>http://simeixue.gitee.io/cly/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开发日志3</title>
+    <link href="http://simeixue.gitee.io/cly/2021/02/14/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%973/"/>
+    <id>http://simeixue.gitee.io/cly/2021/02/14/开发日志3/</id>
+    <published>2021-02-14T15:00:46.000Z</published>
+    <updated>2021-02-14T15:33:53.679Z</updated>
+    
+    <summary type="html">
+    
+      以后还要一起听的音乐~
+    
+    </summary>
+    
+      <category term="cly" scheme="http://simeixue.gitee.io/cly/categories/cly/"/>
+    
+    
+      <category term="甜甜的" scheme="http://simeixue.gitee.io/cly/tags/%E7%94%9C%E7%94%9C%E7%9A%84/"/>
+    
+  </entry>
   
   <entry>
     <title>程序媛就不可爱了嘛</title>
